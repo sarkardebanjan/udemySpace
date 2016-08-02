@@ -8,9 +8,6 @@
 #Maven Target Folder
 target/
 
-#bin folder
-bin
-
 #class files
 *.class
 
@@ -20,8 +17,15 @@ bin
 .project
 
 #IntelliJ Files
-.iml
 
 #GradeFiles
 .gradle
 build
+
+#ActiveMQ Data folder
+activemq-data
+
+#Other Projects
+GenevaAckNackProcessorActive
+GenevaAckNackProcessor-HibernateOnly
+STHAckNackProcessor
