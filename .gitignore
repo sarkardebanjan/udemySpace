@@ -8,6 +8,9 @@
 #Maven Target Folder
 target/
 
+#bin folder
+bin
+
 #class files
 *.class
 
